@@ -21,7 +21,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/caddyserver/caddy/caddyfile"
+	"github.com/billhu1996/caddy/caddyfile"
 )
 
 /*

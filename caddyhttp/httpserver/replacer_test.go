@@ -30,7 +30,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/caddyserver/caddy/caddytls"
+	"github.com/billhu1996/caddy/caddytls"
 )
 
 func TestNewReplacer(t *testing.T) {

@@ -21,7 +21,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/caddyserver/caddy/telemetry"
+	"github.com/billhu1996/caddy/telemetry"
 	"github.com/mholt/certmagic"
 )
 

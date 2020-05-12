@@ -21,7 +21,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/caddyserver/caddy/caddyhttp/httpserver"
+	"github.com/billhu1996/caddy/caddyhttp/httpserver"
 )
 
 // Headers is middleware that adds headers to the responses

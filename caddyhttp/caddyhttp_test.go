@@ -18,7 +18,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/caddyserver/caddy"
+	"github.com/billhu1996/caddy"
 )
 
 // TODO: this test could be improved; the purpose is to

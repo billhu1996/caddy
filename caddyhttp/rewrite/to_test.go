@@ -20,7 +20,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/caddyserver/caddy/caddyhttp/httpserver"
+	"github.com/billhu1996/caddy/caddyhttp/httpserver"
 )
 
 func TestTo(t *testing.T) {

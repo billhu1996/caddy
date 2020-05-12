@@ -22,7 +22,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/caddyserver/caddy/telemetry"
+	"github.com/billhu1996/caddy/telemetry"
 )
 
 // trapSignalsPosix captures POSIX-only signals.

@@ -28,7 +28,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/caddyserver/caddy"
+	"github.com/billhu1996/caddy"
 )
 
 // TestServeHTTP covers positive scenarios when serving files.

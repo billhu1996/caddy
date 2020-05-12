@@ -23,7 +23,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/caddyserver/caddy/caddytls"
+	"github.com/billhu1996/caddy/caddytls"
 	"github.com/mholt/certmagic"
 )
 

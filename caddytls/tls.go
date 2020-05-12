@@ -29,7 +29,7 @@
 package caddytls
 
 import (
-	"github.com/caddyserver/caddy"
+	"github.com/billhu1996/caddy"
 	"github.com/go-acme/lego/v3/challenge"
 	"github.com/mholt/certmagic"
 )
